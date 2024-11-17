@@ -9,8 +9,8 @@ def encryption_i_caesar_cypher(input_data: list[str, int]) -> str:
             answer += symbol
         elif symbol in UPPER_ALPHABET:
             index = UPPER_ALPHABET.index(symbol) - shift
-            while index < 0:
-                index += len(UPPER_ALPHABET)
+            if index < 0:
+                index += len(UPPER_ALPHABET) * (-(index // len(UPPER_ALPHABET))) 
             answer += UPPER_ALPHABET[index]
     
     return answer
