@@ -13,3 +13,6 @@ Scripts for Bitburner videogame and lore texts
 8. § 7. Коды Хэмминга: https://xity.narod.ru/coding/p07.pdf
 9. Код Хэмминга. Пример работы алгоритма: https://habr.com/ru/articles/140611/
 10. Bitburner Contract Solver: https://devmount.github.io/bitburner-contract-solver/
+11. Main Bitburner Repo: https://github.com/bitburner-official/bitburner-src/tree/stable
+12. Bitburner Docs - Coding Contracts: https://bitburner-beta.readthedocs.io/en/latest/basicgameplay/codingcontracts.html#codingcontracts
+13. TS Coding Contract API: https://github.com/bitburner-official/bitburner-src/blob/stable/markdown/bitburner.codingcontract.md
